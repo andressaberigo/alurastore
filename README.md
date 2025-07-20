@@ -105,5 +105,5 @@ loja4 = pd.read_csv(url4)
 Este desafio permitiu explorar dados reais de vendas, aplicar técnicas de visualização com Matplotlib e extrair insights valiosos que simulam a rotina prática de um analista de dados. A experiência contribui diretamente para a formação sólida na especialização em Data Science do programa ONE.
 
 ---
-📚 Desafio desenvolvido como parte do programa Oracle Next Education - Alura, por Tayara Cruz.
+📚 Desafio desenvolvido como parte do programa Oracle Next Education.
 
